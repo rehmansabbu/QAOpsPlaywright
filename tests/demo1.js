@@ -1,0 +1,16 @@
+"use strict";
+let message1 = "hello worldddddddddd";
+message1 = "buy";
+console.log(message1);
+let age = 35;
+console.log(age);
+let isDisplay = true;
+console.log(isDisplay);
+let numArray = [4, 5, 6, 7, 8];
+console.log(numArray);
+let data = "This could be Anything";
+console.log(data);
+data = 42;
+console.log(data);
+let details = { name: "sabbu", age: 35, location: "Delhi" };
+console.log(details);
