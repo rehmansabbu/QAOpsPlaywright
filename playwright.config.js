@@ -18,9 +18,9 @@ const config = ({
     
     baseURL : "https://restful-booker.herokuapp.com",
     browserName : 'chromium',
-    headless : false,
-   // screenshot : 'only-on-failure',
-    screenshot : 'on',
+    headless : true,
+    screenshot : 'only-on-failure',
+    //screenshot : 'on',
     video: 'retain-on-failure',
     trace: 'on'
     
